@@ -1,6 +1,7 @@
 #  Investor Behavior Analysis
 
 This project explores investor behavior and preferences using **Python** for exploratory data analysis (EDA) and **Power BI** for interactive dashboards. 
+![Dashboard Overview](dashboard_visual.png)
 It demonstrates data cleaning, descriptive statistics, visual storytelling, and interactive dashboard design — just like a real-world data analyst would deliver insights for stakeholders.
 
 ---
